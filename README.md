@@ -1,4 +1,4 @@
+TODO
 
-
-- Background image
+- Finish styling
 - Nav dropdown, change sounds
